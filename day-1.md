@@ -8,4 +8,4 @@
 2. Step 2
 3. Step 3
 - [x] This task is complete
-- [ ] This task i s not complete
+- [ ] This task is not complete
